@@ -1,0 +1,8 @@
+:root {
+  --primario: white;
+  --secondario: blue;
+}
+
+.alert-danger {
+  background-color: var(--primario);
+}
